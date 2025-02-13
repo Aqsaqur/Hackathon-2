@@ -7,7 +7,7 @@ interface Tcard{
 }
 export default function Card(Props:Tcard){
     
-    const {imageurl,title,price,className} = Props
+    const {imageurl,title,price} = Props
 
     return(
         

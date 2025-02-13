@@ -1,4 +1,4 @@
-import { ArrowLeft, ArrowRight, Dice1 } from 'lucide-react';
+import { ArrowLeft, ArrowRight} from 'lucide-react';
 import Image from 'next/image';
 
 function App() {

@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="text-2xl font-bold text-white">
           Still <span className="text-yellow-500">You Need Our Support ?</span>
           <p className="mt-2 md:mt-0 text-gray-400 text-xs">
-          Don’t wait, make a smart & logical quote here. It's pretty easy.
+          Dont wait, make a smart & logical quote here. Its pretty easy.
         </p>
         </div>
        

@@ -1,4 +1,4 @@
-import { FaUser, FaEnvelope, FaLock } from "react-icons/fa";
+import { FaEnvelope, FaLock } from "react-icons/fa";
 import { FcGoogle } from "react-icons/fc";
 import { FaApple } from "react-icons/fa";
 

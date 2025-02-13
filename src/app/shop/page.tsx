@@ -1,7 +1,5 @@
 import Image from "next/image";
 import Card from "../components/card";
-import { FaCoffee } from "react-icons/fa";
-import { FaCalendarAlt, FaComments, FaUser } from "react-icons/fa";
 import { FaFacebookF, FaTwitter, FaInstagram, FaPinterest } from "react-icons/fa";
 import { FiSearch } from "react-icons/fi";
 
